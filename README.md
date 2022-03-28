@@ -9,3 +9,8 @@ The CI runs the following steps:
 
 
 [ci-build]: ../../.github/workflows/ci.yml#L9-L45
+
+### Note
+
+I had an issue with the SSO auth and I was just able to  finish a local enviroment for the HOP project.
+The code for a local enviroment can be found here: https://github.com/vicjicaman/commit-hop-support-restaurants
